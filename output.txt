@@ -1,0 +1,13 @@
+Welcome to Hangman!
+Guess the word letter by letter.     
+You have 6 incorrect guesses allowed.
+
+Word: _ _ _ _ _
+Guessed letters: 
+Enter a letter: a
+Correct!
+
+Word: a _ _ _ _   
+Guessed letters: a
+Enter a letter: g
+Wrong! You have 5 guesses left.
